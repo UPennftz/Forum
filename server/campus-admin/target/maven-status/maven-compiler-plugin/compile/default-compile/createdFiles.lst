@@ -1,0 +1,15 @@
+com/oddfar/campus/admin/controller/monitor/SysLogininforController.class
+com/oddfar/campus/admin/controller/system/SysLoginController.class
+com/oddfar/campus/admin/controller/monitor/SysOperlogController.class
+com/oddfar/campus/admin/controller/system/SysApiResourceController.class
+com/oddfar/campus/admin/controller/system/SysProfileController.class
+com/oddfar/campus/admin/controller/system/CaptchaController.class
+com/oddfar/campus/admin/controller/system/SysRoleController.class
+com/oddfar/campus/admin/controller/system/SysRegisterController.class
+com/oddfar/campus/admin/controller/system/SysDictTypeController.class
+com/oddfar/campus/admin/controller/system/SysMenuController.class
+com/oddfar/campus/admin/config/CaptchaConfig.class
+com/oddfar/campus/admin/controller/system/SysDictDataController.class
+com/oddfar/campus/admin/controller/system/SysUserController.class
+com/oddfar/campus/admin/controller/system/SysConfigController.class
+com/oddfar/campus/admin/config/SwaggerConfig.class

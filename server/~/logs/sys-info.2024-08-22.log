@@ -1,0 +1,44 @@
+16:50:54.444 [lettuce-eventExecutorLoop-1-9] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+16:51:03.535 [lettuce-eventExecutorLoop-1-9] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was 127.0.0.1:6379
+16:51:11.836 [lettuce-eventExecutorLoop-1-10] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was 127.0.0.1:6379
+16:51:16.655 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+16:51:17.010 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+16:56:19.143 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+16:56:19.154 [main] INFO  c.o.c.CampusApplication - [logStarting,55] - Starting CampusApplication using Java 1.8.0_382 on FelixMacBookM2.local with PID 3467 (/Users/ftz/Desktop/SchoolForum/project/server/campus-modular/target/classes started by ftz in /Users/ftz/Desktop/SchoolForum/project/server)
+16:56:19.155 [main] INFO  c.o.c.CampusApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "dev"
+16:56:24.184 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8160"]
+16:56:24.185 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:56:24.185 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:56:24.307 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:56:27.733 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:56:28.284 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+16:56:32.983 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8160"]
+16:56:33.181 [main] INFO  c.o.c.CampusApplication - [logStarted,61] - Started CampusApplication in 14.638 seconds (JVM running for 15.235)
+16:56:47.267 [http-nio-8160-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:19:27.648 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Logout][success]
+17:19:31.767 [schedule-pool-3] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Success][Login successful]
+17:25:31.792 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+17:25:40.889 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was 127.0.0.1:6379
+17:25:49.187 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was 127.0.0.1:6379
+17:25:54.159 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+17:25:54.456 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+17:29:38.300 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:29:38.304 [main] INFO  c.o.c.CampusApplication - [logStarting,55] - Starting CampusApplication using Java 1.8.0_382 on FelixMacBookM2.local with PID 2544 (/Users/ftz/Desktop/SchoolForum/project/server/campus-modular/target/classes started by ftz in /Users/ftz/Desktop/SchoolForum/project/server)
+17:29:38.305 [main] INFO  c.o.c.CampusApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "dev"
+17:29:42.671 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8160"]
+17:29:42.673 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:29:42.673 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+17:29:42.788 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:29:46.194 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+17:29:46.819 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+17:29:51.605 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8160"]
+17:29:51.813 [main] INFO  c.o.c.CampusApplication - [logStarted,61] - Started CampusApplication in 14.046 seconds (JVM running for 14.646)
+17:29:56.958 [http-nio-8160-exec-5] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:30:09.924 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Success][Login successful]
+17:33:29.652 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Success][Login successful]
+17:41:52.752 [lettuce-eventExecutorLoop-1-9] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+17:41:53.894 [lettuce-nioEventLoop-4-10] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+17:44:48.347 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+17:44:49.578 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+18:01:50.825 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Success][Login successful]
+18:21:42.964 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Success][Login successful]

@@ -1,0 +1,44 @@
+08:03:02.134 [schedule-pool-14] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Success][Login successful]
+08:04:03.732 [schedule-pool-15] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Logout][success]
+08:04:07.359 [schedule-pool-8] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Success][Login successful]
+08:04:23.627 [schedule-pool-34] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Logout][success]
+08:04:29.642 [schedule-pool-9] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Success][Login successful]
+08:09:31.454 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+08:09:31.509 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+08:10:03.147 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+08:10:03.153 [main] INFO  c.o.c.CampusApplication - [logStarting,55] - Starting CampusApplication using Java 1.8.0_382 on FelixMacBookM2.local with PID 95117 (/Users/ftz/Desktop/SchoolForum/project/server/campus-modular/target/classes started by ftz in /Users/ftz/Desktop/SchoolForum/project/server)
+08:10:03.154 [main] INFO  c.o.c.CampusApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "dev"
+08:10:07.202 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8160"]
+08:10:07.204 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:10:07.204 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+08:10:07.320 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:10:10.626 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:10:11.185 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+08:10:16.330 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8160"]
+08:10:16.472 [main] INFO  c.o.c.CampusApplication - [logStarted,61] - Started CampusApplication in 13.891 seconds (JVM running for 14.568)
+08:10:18.335 [http-nio-8160-exec-4] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:10:27.938 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Success][Login successful]
+08:10:34.369 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Logout][success]
+08:10:38.869 [schedule-pool-3] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Success][Login successful]
+08:24:18.568 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+08:24:18.608 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+08:24:40.372 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+08:24:40.374 [main] INFO  c.o.c.CampusApplication - [logStarting,55] - Starting CampusApplication using Java 1.8.0_382 on FelixMacBookM2.local with PID 95471 (/Users/ftz/Desktop/SchoolForum/project/server/campus-modular/target/classes started by ftz in /Users/ftz/Desktop/SchoolForum/project/server)
+08:24:40.377 [main] INFO  c.o.c.CampusApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "dev"
+08:24:44.046 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8160"]
+08:24:44.047 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:24:44.047 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+08:24:44.150 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:24:47.097 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:24:47.637 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+08:24:52.428 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8160"]
+08:24:52.570 [main] INFO  c.o.c.CampusApplication - [logStarted,61] - Started CampusApplication in 12.711 seconds (JVM running for 13.279)
+08:25:43.954 [http-nio-8160-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:57:14.376 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Logout][success]
+08:57:28.772 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Success][Login successful]
+11:57:58.318 [schedule-pool-4] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Logout][success]
+11:58:03.442 [schedule-pool-5] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[auditor][1820308779128885249][Success][Login successful]
+11:58:36.667 [schedule-pool-2] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[auditor][1820308779128885249][Logout][success]
+11:58:42.292 [schedule-pool-7] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[admin][1][Success][Login successful]
+12:13:27.829 [schedule-pool-8] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Logout][success]
+12:14:08.363 [schedule-pool-9] INFO  sys-user - [run,54] - [127.0.0.1]Intranet IP[tester][1820304803314569218][Success][Login successful]

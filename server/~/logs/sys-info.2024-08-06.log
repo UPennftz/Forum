@@ -1,0 +1,9 @@
+18:16:14.184 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+18:16:14.189 [main] INFO  c.o.c.CampusApplication - [logStarting,55] - Starting CampusApplication using Java 1.8.0_382 on FelixMacBookM2.local with PID 3761 (/Users/ftz/Desktop/SchoolForum/project/server/campus-modular/target/classes started by ftz in /Users/ftz/Desktop/SchoolForum/project/server)
+18:16:14.191 [main] INFO  c.o.c.CampusApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "dev"
+18:16:17.955 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8160"]
+18:16:17.957 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+18:16:17.957 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+18:16:18.060 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+18:16:21.228 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+18:16:22.411 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]

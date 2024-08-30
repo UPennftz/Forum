@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.oddfar.campus.business.mapper.ChatMapper">
+
+    <select id="queryChatList" resultType="com.oddfar.campus.business.domain.vo.ChatVo">
+      SELECT co.userid,
+        (select u.user_name from sys_user u where u.user_id =co.userid) as username,
+        IFNULL((select a.isreply  from chat a where co.userid = a.userid and a.isreply = '0'), '1') as isreply,
+        max(co.addtime) as addtime
+        FROM chat co left join sys_user u on u.user_id =co.userid
+        <where>
+            <if test="username != null and username != ''">
+                u.user_name = #{username,jdbcType=VARCHAR}
+            </if>
+        </where>
+        group by userid
+    </select>
+</mapper>

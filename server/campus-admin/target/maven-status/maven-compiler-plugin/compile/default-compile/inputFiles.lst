@@ -1,0 +1,15 @@
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysUserController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysProfileController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysLoginController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/CaptchaController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysConfigController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/config/CaptchaConfig.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/monitor/SysLogininforController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysDictDataController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysDictTypeController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysRegisterController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysApiResourceController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/config/SwaggerConfig.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysMenuController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/system/SysRoleController.java
+/Users/ftz/Desktop/SchoolForum/project/server/campus-admin/src/main/java/com/oddfar/campus/admin/controller/monitor/SysOperlogController.java
